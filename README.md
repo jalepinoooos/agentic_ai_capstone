@@ -117,4 +117,3 @@ User question
 - [ ] `capstone_streamlit.py` — multi-turn conversation works in browser
 - [ ] `medicare_assistant/` package — all TODO sections replaced
 - [ ] RAGAS baseline scores recorded in written summary
-- [ ] 10 test questions + 2 red-team tests documented
