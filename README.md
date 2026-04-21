@@ -1,6 +1,7 @@
 # Agentic AI Capstone — MediCare Hospital Assistant
 
-Dr. Kanthi Kiran Sirra | Agentic AI Course 2026
+#gauravi singh 2305780
+
 
 ---
 
